@@ -1,7 +1,5 @@
 # Augmenting the Visaul Experience on GPS Tracks using Machine-Learning Techniques
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
   - RQ1. How can we infer the purpose of daily trip of people from their GPS location data? 
   - RQ2. Is there any common pattern of trips that people in Tokyo take throughout a day? 
   - RQ3. How different are the visual experience of the trips with different purposes?
@@ -14,26 +12,9 @@ I designed this study into two separate steps with two machine learning techniqu
 ### Activity Classification 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### View Component Analysis 
 (powerpoint slide placed here)
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
 
 
 ## Result 
